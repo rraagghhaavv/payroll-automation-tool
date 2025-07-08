@@ -29,3 +29,8 @@ pip install pandas reportlab openpyxl
 python project1.py
 # payroll-automation-tool
 Python project to automate payslip generation from Excel using ReportLab
+
+📣 Author  
+Raghav Sood  
+Backend Automation | Python | Excel Integration
+
